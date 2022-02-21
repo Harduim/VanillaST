@@ -9,4 +9,4 @@ A state management system vaguely inspired on Redux. Is meant to be simple and u
 
 - [ ] Documentation using [JSDoc](https://jsdoc.app/)
 - [ ] Unit Tests with [Jest](https://jestjs.io/)
-- [ ] How-to and exemples
+- [ ] How-to and examples
