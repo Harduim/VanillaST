@@ -32,7 +32,7 @@ const store = (state = {}) => {
         for (const dt of dataTypes) {
           if (!Object.keys(_state).includes(dt)) return
         }
-        callback(Object.assign(_state))
+        callback(Object.assign({}, _state))
       }
     )
   }
